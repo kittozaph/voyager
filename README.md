@@ -31,7 +31,7 @@ Configure routes and views to use Voyager.
 
 Admin CRUD Operations for Class:
 
-Open Admin allows you to manage class (CRUD operations) easily.
+Voyager allows you to manage class (CRUD operations) easily.
 Create a controller for managing for example, clients (e.g., ClientController).
 Define routes for creating, reading, updating, and deleting clients.
 Implement authorization middleware to restrict access to admin users only.
